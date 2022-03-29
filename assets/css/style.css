@@ -38,7 +38,6 @@ h3 {
     font-weight: 500;
 }
 
-
 /* utilities */
 
 .container {
@@ -94,15 +93,12 @@ h3 {
     background-color: #fff;
 }
 
-
 .btn:hover {
     cursor: pointer;
     box-shadow: 0 0.4rem 1.4ren 0 rgba(86,185,235,0.5);
     transform: translateY(-0.1rem);
     transition: transform 150ms;
 }
-
-
 
 .btn[disabeled]:hover {
     cursor: not-allowed;
